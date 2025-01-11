@@ -70,7 +70,7 @@ Here are some screenshots of the project:
 
 | ![Home Page][home-screenshot] | ![Simulation 1][example1-screenshot] | ![Simulation 2][example2-screenshot] |
 |-------------------------------|--------------------------------------|--------------------------------------|
-| **Home Page**                 | **Simulation 1**                    | **Simulation 2**                    |
+| **Simulation Page**                 | **Simulation 1**                    | **Simulation 2**                    |
 
 <!-- Reference-style links for images -->
 [home-screenshot]: Assets/example1.png
