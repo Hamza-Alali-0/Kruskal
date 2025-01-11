@@ -1,0 +1,11 @@
+Sommets:
+Sommet1
+Sommet2
+Sommet3
+
+Arêtes:
+A - B : 10
+B - C : 20
+C - A : 30
+A - B : 40
+B - C : 50
