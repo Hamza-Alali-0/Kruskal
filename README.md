@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<a href="https://github.com/yourusername/Kruskal">
+<a href="https://github.com/Hamza-Alali-0/Kruskal">
     <img src="Assets/example3.png" alt="Home Page" width="600">
 </a>
 
@@ -94,7 +94,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/Kruskal.git
+   git clone https://github.com/Hamza-Alali-0/Kruskal.git
 
    
 <a id="contact"></a>
