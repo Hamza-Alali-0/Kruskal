@@ -75,7 +75,7 @@ Here are some screenshots of the project:
 <!-- Reference-style links for images -->
 [home-screenshot]: Assets/example1.png
 [example1-screenshot]: Assets/example2.png
-[example2-screenshot]: Assets/home.png
+[example2-screenshot]: Assets/example3.png
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
