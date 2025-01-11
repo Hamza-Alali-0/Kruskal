@@ -38,7 +38,7 @@
 ## About The Project
 
 <a href="https://github.com/yourusername/Kruskal">
-    <img src="Assets/kruskal/home.png" alt="Home Page" width="600">
+    <img src="Assets/home.png" alt="Home Page" width="600">
 </a>
 
 This project focuses on implementing **Kruskal's Algorithm** to efficiently find the **Minimum Spanning Tree (MST)** of a connected, undirected, and weighted graph. By leveraging this algorithm, the project aims to solve real-world optimization problems, such as network design, cluster analysis, and resource allocation, while ensuring minimal total edge weight and no cycles in the resulting tree.
@@ -73,9 +73,9 @@ Here are some screenshots of the project:
 | **Home Page**                 | **Simulation 1**                    | **Simulation 2**                    |
 
 <!-- Reference-style links for images -->
-[home-screenshot]: Assets/kruskal/example1.png
-[example1-screenshot]: Assets/kruskal/example2.png
-[example2-screenshot]: Assets/kruskal/example3.png
+[home-screenshot]: Assets/example1.png
+[example1-screenshot]: Assets/example2.png
+[example2-screenshot]: Assets/example3.png
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
